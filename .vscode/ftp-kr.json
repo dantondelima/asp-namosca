@@ -1,0 +1,16 @@
+{
+    "host": "ftp.abmbrasilkbrtec.hospedagemdesites.ws",
+    "username": "abmbrasilkbrtec",
+    "password": "aB6535rSm8",
+    "remotePath": "",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}

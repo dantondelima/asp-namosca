@@ -1,5 +1,6 @@
-body#LoginForm{ background-image:url("https://hdwallsource.com/img/2014/9/blur-26347-27038-hd-wallpapers.jpg"); background-repeat:no-repeat; background-position:center; background-size:cover; padding:10px;}
-
+body{
+  background: rgba(4, 209, 164, .9);
+}
 .form-heading { color:#fff; font-size:23px;}
 .panel h2{ color:#444444; font-size:18px; margin:0 0 8px 0;}
 .panel p { color:#777777; font-size:14px; margin-bottom:30px; line-height:24px;}
@@ -14,7 +15,7 @@ body#LoginForm{ background-image:url("https://hdwallsource.com/img/2014/9/blur-2
 .main-div {
   background: #ffffff none repeat scroll 0 0;
   border-radius: 2px;
-  margin: 170px auto 30px;
+  margin: 75px auto 30px;
   max-width: 38%;
   padding: 50px 70px 50px 71px;
 }
@@ -23,14 +24,10 @@ body#LoginForm{ background-image:url("https://hdwallsource.com/img/2014/9/blur-2
   margin-bottom:10px;
 }
 .login-form{ text-align:center;}
-.cadastrar a {
-  color: #777777;
-  font-size: 14px;
-  text-decoration: underline;
-}
+
 .login-form  .btn.btn-primary {
-  background: #f0ad4e none repeat scroll 0 0;
-  border-color: #f0ad4e;
+  background: rgba(4, 209, 164, .9) none repeat scroll 0 0;
+  border-color: rgba(0, 0, 0, 0.1);
   color: #ffffff;
   font-size: 14px;
   width: 100%;
@@ -50,4 +47,3 @@ body#LoginForm{ background-image:url("https://hdwallsource.com/img/2014/9/blur-2
   background: #ff9900 none repeat scroll 0 0;
 }
 .back { text-align: left; margin-top:10px;}
-.back a {color: #444444; font-size: 13px;text-decoration: none;}

@@ -1,11 +1,12 @@
 <%@LANGUAGE="VBSCRIPT" CODEPAGE="1252"%>
-<!-- #include file = "config/config.asp" -->    
+<!-- #include file = "config/config.asp" --> 
+<!--#include file="sha256.asp"-->       
 <%
 
     razaoSocial = Request.Form("razaoSocial")
     nomeResponsavel = Request.Form("nomeResponsavel")
     email = Request.Form("email")
-    senha = Request.Form("senha")
+    senha = sha256(Request.Form("senha"))
     celular = Request.Form("celular")
     logotipo = Request.Form("logotipo")
 
