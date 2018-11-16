@@ -1,0 +1,345 @@
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<TABLE Border=1>
+	<tr>
+		<td>Código</td>
+		<td>Nome</td>
+		<td>Sobrenome</td>
+		<td>Tipo de ingresso</td>
+		<td>E-mail</td>
+		<td>Telefone</td>
+		<td>Celular</td>
+		<td>Data da festa</td>
+		<td>Fase do planejamento</td>
+	</tr>SELECT * FROM asp_participante WHERE n_ingresso = 'QH5UBGDPVY' OR n_ingresso = 'http://l.ead.me/bax8hR' OR n_ingresso = 'QH03B4YU41' OR n_ingresso = 'QFKZNUWKVL' OR n_ingresso = 'QFQDBLFYKG' OR n_ingresso = 'QFDU1RC2G3' OR n_ingresso = 'QF3LX7EST8' OR n_ingresso = 'QF3LX7DL2W' OR n_ingresso = 'QFRZC23YJZ' OR n_ingresso = 'QFMXVT3R8T' OR n_ingresso = 'QFKN5XBAPS' OR n_ingresso = 'QFKU8TPSBL' OR n_ingresso = 'QFRZC221GL' OR n_ingresso = 'QFKN8MMCL1' OR n_ingresso = 'QFKNG75RPR' OR n_ingresso = 'QFMXVT2CF4' OR n_ingresso = 'QFDU1RDN8C' OR n_ingresso = 'QEUSY2FL11' OR n_ingresso = 'QEUSY2EE29' OR n_ingresso = '0'
+<TR>
+
+<TD VALIGN=TOP>QEUSY2FL11</TD>
+
+<TD VALIGN=TOP>Fernando</TD>
+
+<TD VALIGN=TOP>Torrez</TD>
+
+<TD VALIGN=TOP>noivo</TD>
+
+<TD VALIGN=TOP>namoscaeventos@gmail.com</TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP>2018-11-06</TD>
+
+<TD VALIGN=TOP></TD>
+
+</TR>
+
+<TR>
+
+<TD VALIGN=TOP>QF3LX7DL2W</TD>
+
+<TD VALIGN=TOP>Vitória Paola</TD>
+
+<TD VALIGN=TOP>Medeiros</TD>
+
+<TD VALIGN=TOP>Noivo (a)</TD>
+
+<TD VALIGN=TOP>vitoriamedeiros22@gmail.com</TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP>2020-01-11</TD>
+
+<TD VALIGN=TOP></TD>
+
+</TR>
+
+<TR>
+
+<TD VALIGN=TOP>QF3LX7EST8</TD>
+
+<TD VALIGN=TOP>Vitória Paola</TD>
+
+<TD VALIGN=TOP>Medeiros</TD>
+
+<TD VALIGN=TOP>Noivo (a)</TD>
+
+<TD VALIGN=TOP>vitoriamedeiros22@gmail.com</TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP>2020-01-11</TD>
+
+<TD VALIGN=TOP></TD>
+
+</TR>
+
+<TR>
+
+<TD VALIGN=TOP>QFDU1RC2G3</TD>
+
+<TD VALIGN=TOP>Fernando</TD>
+
+<TD VALIGN=TOP>Torrez</TD>
+
+<TD VALIGN=TOP>Noivo (a)</TD>
+
+<TD VALIGN=TOP>fernandotorrez12@hotmail.com</TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP>1111-11-11</TD>
+
+<TD VALIGN=TOP>Estou no meio da organização da festa, já contratei algumas empresas</TD>
+
+</TR>
+
+<TR>
+
+<TD VALIGN=TOP>QFDU1RDN8C</TD>
+
+<TD VALIGN=TOP>aaaa</TD>
+
+<TD VALIGN=TOP>aaaaaaa</TD>
+
+<TD VALIGN=TOP>Debutante</TD>
+
+<TD VALIGN=TOP>a@g1.com.br</TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP>1111-11-11</TD>
+
+<TD VALIGN=TOP>Estou bem no início da organização da festa, mas já tenho data definida</TD>
+
+</TR>
+
+<TR>
+
+<TD VALIGN=TOP>QFKN5XBAPS</TD>
+
+<TD VALIGN=TOP>Marcel</TD>
+
+<TD VALIGN=TOP>Moraes</TD>
+
+<TD VALIGN=TOP>Profissional de Evento</TD>
+
+<TD VALIGN=TOP>Marcel-moraes@hotmail.com</TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+</TR>
+
+<TR>
+
+<TD VALIGN=TOP>QFKNG75RPR</TD>
+
+<TD VALIGN=TOP>Daniel</TD>
+
+<TD VALIGN=TOP>Alexandrino</TD>
+
+<TD VALIGN=TOP>Noivo (a)</TD>
+
+<TD VALIGN=TOP>daniel.alexandrino@kbrtec.com.br</TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP>2019-09-26</TD>
+
+<TD VALIGN=TOP>Estou bem no início da organização da festa, mas já tenho data definida</TD>
+
+</TR>
+
+<TR>
+
+<TD VALIGN=TOP>QFKU8TPSBL</TD>
+
+<TD VALIGN=TOP>lais</TD>
+
+<TD VALIGN=TOP>teste</TD>
+
+<TD VALIGN=TOP>Noivo (a)</TD>
+
+<TD VALIGN=TOP>financeiro@kbrtec.com.br</TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP>Estou bem no início da organização da festa, ainda não tenho nem data e local</TD>
+
+</TR>
+
+<TR>
+
+<TD VALIGN=TOP>QFKZNUWKVL</TD>
+
+<TD VALIGN=TOP>Edelweiss soleda</TD>
+
+<TD VALIGN=TOP>Torrez</TD>
+
+<TD VALIGN=TOP>Noivo (a)</TD>
+
+<TD VALIGN=TOP>Deltorrez@gmail.com</TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP>Estou bem no início da organização da festa, ainda não tenho nem data e local</TD>
+
+</TR>
+
+<TR>
+
+<TD VALIGN=TOP>QFMXVT2CF4</TD>
+
+<TD VALIGN=TOP>Cassia Tamara</TD>
+
+<TD VALIGN=TOP>Fernandes Silvano</TD>
+
+<TD VALIGN=TOP>Noivo (a)</TD>
+
+<TD VALIGN=TOP>catamaraf@gmail.com</TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP>Estou bem no início da organização da festa, ainda não tenho nem data e local</TD>
+
+</TR>
+
+<TR>
+
+<TD VALIGN=TOP>QFMXVT3R8T</TD>
+
+<TD VALIGN=TOP>Marcos Arthur</TD>
+
+<TD VALIGN=TOP>Cavalcante Filho</TD>
+
+<TD VALIGN=TOP>Acompanhante</TD>
+
+<TD VALIGN=TOP>catamaraf@gmail.com</TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+</TR>
+
+<TR>
+
+<TD VALIGN=TOP>QFQDBLFYKG</TD>
+
+<TD VALIGN=TOP>Fernando</TD>
+
+<TD VALIGN=TOP>Torrez</TD>
+
+<TD VALIGN=TOP>Profissional de Evento</TD>
+
+<TD VALIGN=TOP>contato@namoscaeventos.com.br</TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+</TR>
+
+<TR>
+
+<TD VALIGN=TOP>QFRZC221GL</TD>
+
+<TD VALIGN=TOP>Gustavo</TD>
+
+<TD VALIGN=TOP>Galvao</TD>
+
+<TD VALIGN=TOP>Noivo (a)</TD>
+
+<TD VALIGN=TOP>gustavovg85@yahoo.com.br</TD>
+
+<TD VALIGN=TOP>13991531939</TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP>Estou somente pesquisando</TD>
+
+</TR>
+
+<TR>
+
+<TD VALIGN=TOP>QFRZC23YJZ</TD>
+
+<TD VALIGN=TOP>Tatiana</TD>
+
+<TD VALIGN=TOP>Lopes</TD>
+
+<TD VALIGN=TOP>Noivo (a)</TD>
+
+<TD VALIGN=TOP>antidope21@hotmail.com</TD>
+
+<TD VALIGN=TOP>13997561939</TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP>Estou bem no início, mas já tenho data definida</TD>
+
+</TR>
+
+<TR>
+
+<TD VALIGN=TOP>QH5UBGDPVY</TD>
+
+<TD VALIGN=TOP>Daniela</TD>
+
+<TD VALIGN=TOP>Hernandes</TD>
+
+<TD VALIGN=TOP>Noivo (a)</TD>
+
+<TD VALIGN=TOP>Dany.pais@gmail.com</TD>
+
+<TD VALIGN=TOP>13988190331</TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP></TD>
+
+<TD VALIGN=TOP>Estou bem no início, ainda não tenho data e local</TD>
+
+</TR>
+
+</TABLE>

@@ -1,13 +1,4 @@
 <%
-	serverName	= Request.ServerVariables( "SERVER_NAME" )
-	scriptName	= Right( Request.ServerVariables( "SCRIPT_NAME" ) , Len( Request.ServerVariables( "SCRIPT_NAME" ) ) -1 )
-
-	If ( serverName <> "localhost" ) And ( serverName <> "serverName" ) Then
-		If ( InStr( serverName , "www." ) < 1 ) And ( InStr( serverName , "tempsite" ) < 1 ) Then		
-			Response.Redirect( LCase( "http://www." & serverName & "/" & scriptName ) )
-		End If
-	End If
-	
 	empresa			= "Resan Treinamentos"
 	tituloSite		= empresa
 	tituloAdmin		= tituloSite &" - Painel Administrativo"

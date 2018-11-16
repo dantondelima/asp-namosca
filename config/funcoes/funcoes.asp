@@ -409,10 +409,10 @@
 '		Mail.Port = 587
 '		Mail.Username = "webmaster@resan.com.br"
 '		Mail.Password = "123resan123"
-		Mail.Host = "kbrtecmail.com.br"
+		Mail.Host = "smtplw.com.br"
 		Mail.Port = 587
-		Mail.Username = "envio"
-		Mail.Password = "me#g27b5hv"
+		Mail.Username = "kbrtec12"
+		Mail.Password = "BAitGJQUsHUu2q"
 		Mail.From = troca(remetente)
 		Mail.FromName = Mail.EncodeHeader(troca(remetente_nome), "iso-8859-1")
 		Mail.AddAddress troca(destino)

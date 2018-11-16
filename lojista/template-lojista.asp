@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <% if Session("lojista_id") = "" then 
+        response.redirect("login.asp")
+    end if %> 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,7 +13,7 @@
     <!-- Bootstrap CSS CDN -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
     <!-- Our Custom CSS -->
-    <link rel="stylesheet" href="css/style-painel.css">
+    <link rel="stylesheet" href="../css/style-painel.css">
 
     <!-- Font Awesome JS -->
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
@@ -30,16 +33,22 @@
 
             <ul class="list-unstyled components">
                 <li>
+                    <a href="home-lojista.asp">
+                        <i class="fas fa-home"></i>
+                        Início 
+                    </a>
+                </li>
+                <li>
                     <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
                         <i class="fas fa-copy"></i>
                         Participantes
                     </a>
                     <ul class="collapse list-unstyled" id="pageSubmenu">
                         <li>
-                            <a href="#">Cadastro</a>
+                            <a href="cadastro-csv.asp">Cadastro (CSV)</a>
                         </li>
                         <li>
-                            <a href="#">Listagem</a>
+                            <a href="cadastro-codigo.asp">Cadastro (código)</a>
                         </li>
                     </ul>
                 </li>
@@ -64,16 +73,8 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="nav navbar-nav ml-auto">
                             <li class="nav-item active">
-                                <a class="nav-link" href="#">Page</a>
+                                <a class="nav-link" href="../logout.asp">Logout</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">Page</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">Page</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">Page</a>
                             </li>
                         </ul>
                     </div>

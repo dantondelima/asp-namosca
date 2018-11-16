@@ -1,6 +1,6 @@
 <%@LANGUAGE="VBSCRIPT" CODEPAGE="1252"%>
 <!-- #include file = "template-lojista.asp" --> 
-<!-- #include file = "config/config.asp" -->   
+<!-- #include file = "../config/config.asp" -->   
 <% if Session("lojista_id") = "" then 
         response.redirect("login.asp")
     end if %> 
