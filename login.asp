@@ -21,14 +21,11 @@
    </div>
    <h1>Login</h1>
     <form id="login" method="post" action="login-validar.asp">
-
         <div class="form-group">
             <input type="login" class="form-control" id="inputLogin" placeholder="Login" name="login">
-
         </div>
 
         <div class="form-group">
-
             <input type="password" class="form-control" id="inputSenha" placeholder="Senha" name="senha">
         </div>     
 
