@@ -9,7 +9,7 @@
     If not consulta.EOF Then
         If consulta("senha_admin") = senha Then
         	Session("username") = consulta("login_admin")
-            response.redirect("painel-admin.asp")
+            response.redirect("admin/home-admin.asp")
         Else 
            	response.redirect("login.asp?action=senhaErro") 'erro na senha'
         End if
@@ -19,7 +19,7 @@
     	If not consulta.EOF Then
 	        If consulta("cd_senha") = senha Then
 	        	Session("lojista_id") = consulta("cd_lojista")
-	            response.redirect("painel-lojista.asp")
+	            response.redirect("lojista/home-lojista.asp")
 	        Else 
 	           response.redirect("login.asp?action=senhaErro") 'erro na senha'
 	        End if
